@@ -1,8 +1,5 @@
 # ✈️ Travel Agency Platform
 
-<p align="center">
-  <img src="./assets/banner.png" alt="Travel Agency Platform Banner" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success" />
